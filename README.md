@@ -1,4 +1,4 @@
-<h1 align = "center"> Hola 👋, soy Francisco González Valenzuela </h1>
+<<h1 align = "center"> Hola 👋, soy Francisco González Valenzuela </h1>
 <h3 align = "center"> Desarrollador frontend de chile </h3>
 
 - 🌱 Estoy aprendiendo actualmente ** ReactJs, Sass, Tailwind CSS. * *
