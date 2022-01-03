@@ -1,17 +1,15 @@
-<<h1 align = "center"> Hola 👋, soy Francisco González Valenzuela </h1>
-<h3 align = "center"> Desarrollador frontend de chile </h3>
+<h1 align = "center"> Hola 👋, soy Francisco González Valenzuela </h1>
+<h3 align = "center"> Desarrollador frontend </h3>
 
-- 🌱 Estoy aprendiendo actualmente ** ReactJs, Sass, Tailwind CSS. * *
+- 🌱 Estoy aprendiendo actualmente ** ReactJs, Sass, Tailwind CSS. **
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://fgonzavz.cl/](https://fgonzavz.cl/)
-
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/francisco -gonzalez-valenzuela /] (https://www.linkedin.com/in/francisco-gonzalez-valenzuela/)
+- 👨‍💻 Todos mis proyectos están disponibles en [fgonzavz.cl] (fgonzavz.cl)
 
 - ⚡ Datos curiosos ** Soy un apasionado por el futbol. **
 
-<h3 align = "left"> Connect conmigo: </h3>
+<h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
-<a href="https://linkedin.com/in/francisco-gonzalez-valenzuela/" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" francisco-gonzalez-valenzuela / "height =" 30 "width =" 40 "/> </ a>
+<a href="https://linkedin.com/in/francisco-gonzalez-valenzuela/" target="blank"> <img align = "center" src = "https: // raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt =" francisco-gonzalez-valenzuela / "height = "30" width = "40" /> </a>
 </p>
 
 <h3 align = "left"> Idiomas y herramientas: </h3>
