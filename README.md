@@ -1,12 +1,11 @@
 <h1 align = "center"> Hola 👋, soy Francisco González Valenzuela </h1>
 <h3 align = "center"> Desarrollador frontend </h3>
 
-- 🌱 Estoy aprendiendo actualmente ** 
-Js, Sass, Tailwind CSS. **
+- 🌱 Estoy aprendiendo actualmente:  **ReactJs, Sass, Tailwind CSS.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [fgonzavz.cl]
+- 👨‍💻 Todos mis proyectos están disponibles en: **fgonzavz.cl**
 
-- ⚡ Datos curiosos ** Soy un apasionado por el futbol. **
+- ⚡ Datos curiosos **Soy un apasionado por el futbol.**
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
