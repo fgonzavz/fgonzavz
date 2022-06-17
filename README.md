@@ -1,9 +1,7 @@
 <h1 align = "center"> Hola 👋, soy Francisco González Valenzuela </h1>
-<h3 align = "center"> FullStack Developer </h3>
+<h3 align = "center"> Software Developer </h3>
 
 - 🌱 Estoy aprendiendo actualmente:  **ReactJs, Sass, Tailwind CSS.**
-
-- 👨‍💻 Todos mis proyectos están disponibles en: **fgonzavz.cl**
 
 - ⚡ Datos curiosos **Soy un apasionado por el futbol.**
 
